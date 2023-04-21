@@ -29,20 +29,18 @@ At Elbon Concepts, we follow a streamlined process to ensure that our clients re
 
 We use the latest technologies to provide the best possible solutions to our clients. Our technology stack includes:
 
-- Node.js
-- Angular
-- PHP
-- Laravel
-- SQL
-- MongoDB
-- AWS
-- Docker
-- Kubernetes
+- **JavaScript**: Node.js, React.js
+- **TypeScript**: Angular, Next.js
+- **PHP**: Laravel, WordPress
+- **SQL**: Microsoft SQL Server, MySQL, PostgreSQL
+- **NoSQL**: MongoDB, DynamoDB
+- **Blockchain Development**: Solidity, Ethereum
+- **Cloud Infrastructure**: AWS, Kubernetes, Docker
 
 ## Contact Us
 
 To learn more about how Elbon Concepts can help your business with custom software solutions, please contact us at:
 
-- Email: info@elbonconcepts.com
-- Phone: +1 (555) 123-4567
+- Email: [info@elbonconcepts.com](mailto:nobleosinachi98@gmail.com)
+- Phone: [+234 (0) 902 577 8189](tel:+2349025778189)
 - Website: [https://www.elbonconcepts.com/](https://github.com/Elbon-Concepts)
