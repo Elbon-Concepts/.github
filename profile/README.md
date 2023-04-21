@@ -30,6 +30,7 @@ At Elbon Concepts, we follow a streamlined process to ensure that our clients re
 
 We use the latest technologies to provide the best possible solutions to our clients. Our technology stack includes:
 
+- **C#**: ASP.NET, Entity Framework
 - **JavaScript**: Node.js, React.js
 - **TypeScript**: Angular, Next.js
 - **PHP**: Laravel, WordPress
