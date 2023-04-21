@@ -14,6 +14,7 @@ We offer a wide range of services including:
 - Database design and optimization
 - DevOps and cloud infrastructure management
 - Quality assurance and testing
+- Smart contract development on Ethereum and Celo blockchain
 
 ## Our Process
 
