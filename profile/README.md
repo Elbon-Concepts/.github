@@ -2,11 +2,6 @@
 
 ![](https://making.close.com/static/close-collage-98741b61e25ef69b5e8d4d5129c839c2.jpg)
 
-
-# About Elbon Concepts
-
-![Elbon Concepts logo](https://www.elbonconcepts.com/images/logo.png)
-
 Elbon Concepts is a software design company that specializes in developing custom software solutions using the latest technologies. Our team of highly skilled developers has expertise in Node.js, Angular, PHP, Laravel, SQL, and other modern technologies.
 
 ## Our Services
@@ -50,4 +45,4 @@ To learn more about how Elbon Concepts can help your business with custom softwa
 
 - Email: info@elbonconcepts.com
 - Phone: +1 (555) 123-4567
-- Website: https://www.elbonconcepts.com/
+- Website: [https://www.elbonconcepts.com/](https://github.com/Elbon-Concepts)
