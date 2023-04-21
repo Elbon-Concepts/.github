@@ -43,5 +43,5 @@ We use the latest technologies to provide the best possible solutions to our cli
 To learn more about how Elbon Concepts can help your business with custom software solutions, please contact us at:
 
 - Email: [info@elbonconcepts.com](mailto:nobleosinachi98@gmail.com)
-- Phone: [+234 (0) 902 577 8189](tel:+2349025778189)
+- Phone: [+234(0)902-577-8189](tel:+2349025778189)
 - Website: [https://www.elbonconcepts.com/](https://github.com/Elbon-Concepts)
