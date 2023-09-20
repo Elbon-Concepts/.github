@@ -14,7 +14,7 @@ We offer a wide range of services including:
 - Database design and optimization
 - DevOps and cloud infrastructure management
 - Quality assurance and testing
-- Smart contract development on Ethereum and Celo blockchain
+- Smart contract development on Ethereum blockchain
 
 ## Our Process
 
@@ -34,9 +34,9 @@ We use the latest technologies to provide the best possible solutions to our cli
 - **JavaScript**: Node.js, React.js
 - **TypeScript**: Angular, Next.js
 - **PHP**: Laravel, WordPress
-- **SQL**: Microsoft SQL Server, MySQL, PostgreSQL
-- **NoSQL**: MongoDB, DynamoDB
-- **Blockchain Development**: Solidity, Ethereum
+- **SQL**: Microsoft SQL Server, MySQL
+- **NoSQL**: MongoDB
+- **Blockchain Development**: Solidity, Ethereum, DLT
 - **Cloud Infrastructure**: AWS, Kubernetes, Docker
 
 ## Contact Us
@@ -45,4 +45,4 @@ To learn more about how Elbon Concepts can help your business with custom softwa
 
 - Email: [elbonconcepts@gmail.com](mailto:elbonconcepts@gmail.com)
 - Phone: [+234(0)902-577-8189](tel:+2349025778189)
-- Website: [https://www.elbonconcepts.com/](https://github.com/Elbon-Concepts)
+- Website: [https://www.elbonconcepts.com/](https://elbonconcepts.github.io/)
